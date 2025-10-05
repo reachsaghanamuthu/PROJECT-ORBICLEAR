@@ -11,8 +11,9 @@ Reference:
 
 
 ## 📦 Files Included
-- `ORBICLEAR.stl` – 3D model file
-- `screenshot.png` – Visual reference of the model
+- Visual reference of the model(Video)
+- 3D model file
+- Business plan presentation
 
 ## 🛰️ Key Components
 - **Main Body:** Central housing for electronics and control systems
@@ -24,9 +25,4 @@ Reference:
 ## 👥 Team
 Akatsuki Protocol – NASA Space Apps Challenge 2025
 Members:
-Saghana M
-Tejaswi S
-Varsha S
-Sameera Taj K
-Saran M
-Vettrivel Haarish M J
+Saghana M, Tejaswi S, Varsha S, Sameera Taj K, Saran M, Vettrivel Haarish M J
